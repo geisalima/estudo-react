@@ -9,4 +9,4 @@ export default props =>
         <div className="Footer">
             { props.titulo }
         </div>
-    </div>
+    </div> 
